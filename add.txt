@@ -2,3 +2,4 @@ test
 add_new_line
 remote
 second remote test
+third remote test
